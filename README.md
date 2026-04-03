@@ -1,16 +1,18 @@
 # 经济学人、纽约客等英语外刊杂志下载
 ---------------------
 
-## 一、英语阅读专用App推荐
+## 一、优质App推荐
 
-* <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器, <font color="#e3120b">让您轻松读懂英文小说、外刊杂志</font>,支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记、AI学英语等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载(华为、小米等应用商店均可下载)](https://ereader.link/);
+* <img align="center" src="https://ereader.link/images/ereader.png" width="32px" /> 英阅阅读器 - 超好用的英语阅读神器! <font color="#e3120b">让您轻松读懂英文小说、外刊杂志</font>,支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记、AI学英语(语法、词汇分析)等功能,[iOS版下载](https://apps.apple.com/cn/app/ereader-%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880)、[Android版下载(华为、小米等应用商店均可下载)](https://ereader.link/);
+* <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/43/29/2b43294b-a82d-e1f1-69d8-bdbebce0ee3f/Placeholder.mill/400x400bb-75.webp" width="32px"> 多邻国 - 全球火爆的外语学习平台, 学习就像玩游戏！[多邻国官网](https://www.duolingo.cn/)
+
 
 ---------------------
 
 ## 二、内容分类
 
-* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2026.03.28) , 每周五十一点更新
-* [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2026.03.23) , 每周六上午更新
+* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2026.04.04) , 每周五十一点更新
+* [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2026.03.30) , 每周六上午更新
 * [The Atlantic - 月刊](04_atlantic), 每月2号更新
 * [Wired - 月刊](05_wired), 每月2号更新
 
